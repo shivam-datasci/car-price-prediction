@@ -1,4 +1,5 @@
 # 🚗 Car Price Prediction Using Machine Learning
+[![Open In NBViewer](https://img.shields.io/badge/Open%20in-NBViewer-orange?logo=jupyter)](https://nbviewer.org/github/shivam-datasci/car-price-prediction/blob/main/car_price_prediction.ipynb)
 
 ## 📌 Project Overview
 
